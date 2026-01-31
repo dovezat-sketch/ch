@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkhy_font_writer"]=self["webpackChunkhy_font_writer"]||[]).push([[8067],{8067:function(e){e.exports=JSON.parse('[{"id":"1891830720171741186","name":"哥"},{"id":"1891830720171741187","name":"弟"},{"id":"1891830720171741188","name":"画"},{"id":"1891830720171741189","name":"花"}]')}}]);

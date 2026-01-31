@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+    <rect class="rects" x="0" y="0" width="100" height="100" fill="#64baf4"
+        stroke="#db242c" stroke-width="1"></rect>
+    <line x1="38.2" y1="0" x2="38.2" y2="100" stroke="#db242c" stroke-width="1"
+        stroke-dasharray="5, 5"></line>
+    <line x1="61.8" y1="0" x2="61.8" y2="100" stroke="#db242c" stroke-width="1"
+        stroke-dasharray="5, 5"></line>
+    <line x1="0" y1="38.2" x2="100" y2="38.2" stroke="#db242c" stroke-width="1"
+        stroke-dasharray="5, 5"></line>
+    <line x1="0" y1="61.8" x2="100" y2="61.8" stroke="#db242c" stroke-width="1"
+        stroke-dasharray="5, 5"></line>
+    <circle cx="50" cy="50" r="38.2" fill="none" stroke="#db242c" stroke-width="1"
+        stroke-dasharray="5, 5"></circle>
+</svg>
